@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="device_certus" translatable="false">Redmi 6/6A</string>
+  <string name="device_s3_h560_codename" translatable="false">certus</string>
+  <string name="device_s3_h560_maintainer" translatable="false">Amy Grace</string>
+</resources>
